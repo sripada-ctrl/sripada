@@ -1,0 +1,8 @@
+{
+  "name": "Remix Project Eclipse",
+  "description": "One planet. Three worlds. One mission. Save Earth. A futuristic 3D environmental restoration, survival, and space exploration adventure game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
